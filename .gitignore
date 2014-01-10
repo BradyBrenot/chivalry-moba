@@ -213,3 +213,6 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+/Development/Src/Moba/Moba.sln
+/Development/Src/Moba/Moba.suo
+/Development/Src/Moba/Moba.ucproj
