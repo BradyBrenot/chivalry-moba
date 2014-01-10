@@ -10,7 +10,20 @@ class MobaMobController extends AOCAIController;
  * Anyways, mobs are, again, stupid things. They don't need to be that complex.
  */
 
+enum EMobType
+{
+	EMT_Mini,
+	EMT_Maxi,
+	EMT_Super
+};
+
+var EMobType MobType;
+var MobaMobSpawner Spawner;
+var int WaypointIndex;
+
 function ChoosePawnSettings()
 {
 	super.ChoosePawnSettings();
+
+	//check EMobType, choose settings accordingly
 }

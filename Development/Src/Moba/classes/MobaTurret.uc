@@ -1,4 +1,4 @@
-class MobaTurret extends AOCStaticMeshActor;
+class MobaTurret extends MobaHealingStaticMeshActor;
 
 /* What makes a Moba turret?
  * I think it probably has the following characteristics:
@@ -11,3 +11,6 @@ class MobaTurret extends AOCStaticMeshActor;
  * 7: It next targets mobs
  * 8: Finally, if there are no mobs, it targets players
  */
+
+//The distance around which the turret is aware and can attack players/mobs
+var() float AttackRadius;
