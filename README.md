@@ -9,12 +9,12 @@ This is not endorsed or supported by either Torn Banner or Tom Banner. However, 
 
 The goal is primarily to make this useful for modders, with examples of:
 
-* A new game mode with unique spawning rules 
-* A mode with objectives controlled both by UnrealScript code and the map
+* A new game mode with variants
 * GUI modifications
 * New Kismet nodes
 * Editor-placeable actors
 * Editor map rules
+** Some amount of map control over the game mode
 * Slight AI modifications
 
 For a more simple example mod, see https://github.com/BradyBrenot/chivalry-instagib. For an even stranger mod example, see https://github.com/BradyBrenot/swords-and-jetpacks
