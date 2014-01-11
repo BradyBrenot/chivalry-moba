@@ -14,7 +14,7 @@ The goal is primarily to make this useful for modders, with examples of:
 * New Kismet nodes
 * Editor-placeable actors
 * Editor map rules
-** Some amount of map control over the game mode
+ * Some amount of map control over the game mode
 * Slight AI modifications
 
 For a more simple example mod, see https://github.com/BradyBrenot/chivalry-instagib. For an even stranger mod example, see https://github.com/BradyBrenot/swords-and-jetpacks
