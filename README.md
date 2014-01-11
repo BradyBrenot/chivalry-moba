@@ -41,4 +41,4 @@ For a more simple example mod, see https://github.com/BradyBrenot/chivalry-insta
 * Special UI for mob health, turret health, score
 
 ### Phase 4 (will probably never happen)
-* Balancing and flare
+* Balancing and flair
