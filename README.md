@@ -40,6 +40,5 @@ For a more simple example mod, see https://github.com/BradyBrenot/chivalry-insta
 ### Phase 3
 * Special UI for mob health, turret health, score
 
-### Phase 4
-* Maybe jungle mobs with buffs or something
- * Naturally, with associated Kismet
+### Phase 4 (will probably never happen)
+* Balancing and flare
