@@ -9,7 +9,8 @@ This is not endorsed or supported by either Torn Banner or Tom Banner. However, 
 
 The goal is primarily to make this useful for modders, with examples of:
 
-* A new game mode with unique spawning rules
+* A new game mode with unique spawning rules 
+* A mode with objectives controlled both by UnrealScript code and the map
 * GUI modifications
 * New Kismet nodes
 * Editor-placeable actors
