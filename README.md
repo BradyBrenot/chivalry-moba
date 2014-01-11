@@ -15,3 +15,5 @@ The goal is primarily to make this useful for modders, with examples of:
 * Editor-placeable actors
 * Editor map rules
 * Slight AI modifications
+
+For a more simple example mod, see https://github.com/BradyBrenot/chivalry-instagib. For an even stranger mod example, see https://github.com/BradyBrenot/swords-and-jetpacks
